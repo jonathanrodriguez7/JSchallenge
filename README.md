@@ -1,2 +1,2 @@
 # Jschallengess
-My frist challenge logic 
+My first challenge logic 
